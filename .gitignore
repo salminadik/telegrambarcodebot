@@ -1,4 +1,2 @@
-photos/
-*.json
-.env
-__pycache__/
+echo "*.json" >> .gitignore
+echo ".env" >> .gitignoretelegrambarcodebot-*.json
