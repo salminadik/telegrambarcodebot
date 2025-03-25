@@ -1,5 +1,7 @@
-python-telegram-bot==20.0
+python-telegram-bot[webhooks]==20.0
 flask==2.0.3
 werkzeug==2.0.3
 google-api-python-client==2.15.0
-gunicorn==20.1.0  # Добавьте эту строку
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
+gunicorn==20.1.0
