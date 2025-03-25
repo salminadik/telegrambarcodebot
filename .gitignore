@@ -1,2 +1,4 @@
-# .gitignore
-*.json  # Игнорирует все JSON-файлы
+photos/
+*.json
+.env
+__pycache__/
